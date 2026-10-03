@@ -12,4 +12,8 @@ db.sqlite3-journal
 .env
 
 # IDE
-.vscode/django-ecommerce/
+django-ecommerce/
+
+# IDE
+.vscode/
+django-ecommerce/
